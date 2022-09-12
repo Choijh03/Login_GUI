@@ -1,5 +1,7 @@
 # Login_GUI
 
+Jihun Choi / tkarnrwlehtk@gmail.com
+
 This is Login GUI written by using JFRAME and Netbeans IDE.
 
 User can enter ID and Password to login.
